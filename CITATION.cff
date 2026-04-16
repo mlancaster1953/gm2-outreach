@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Fermilab Muon g-2 Outreach Code and Data"
+message: "If you use this repository, please cite the Zenodo archived release."
+type: software
+authors:
+  - family-names: "YourSurname"
+    given-names: "YourGivenName"
+    affiliation: "Your University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-04-16
+repository-code: "https://github.com/mlancaster1953/g-2-outreach
+license: "MIT"
